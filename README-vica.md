@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://vicaakhira26.github.io/Stats-Preview-Card-Component-for-FrontEnd-Mentor-without-framework/)
+- Live Site URL: [Frontend Mentor | Stats preview card component](https://vicaakhira26.github.io/Stats-Preview-Card-Component-for-FrontEnd-Mentor-without-framework/)
 
 ## My process
 
