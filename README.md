@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click Here!](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-vanilla-html-and-css-d6dIaJuTv)
 - Live Site URL: [Frontend Mentor | Stats preview card component](https://vicaakhira26.github.io/Stats-Preview-Card-Component-for-FrontEnd-Mentor-without-framework/)
 
 ## My process
